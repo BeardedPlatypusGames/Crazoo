@@ -1,3 +1,3 @@
 # Crazoo
 
-Download last version [link](https://github.com/BeardedPlatypusGames/Crazoo/releases/download/v0.1/Fullgame.zip "here").
+Download last version [here](https://github.com/BeardedPlatypusGames/Crazoo/releases/download/v0.1/Fullgame.zip "here").
